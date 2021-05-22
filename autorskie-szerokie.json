@@ -1,8 +1,0 @@
-
- {
- 	"emotes" : [
-				{ "id": 1 , "code" : "BloodTrail", "ext" : "png" , "cat" : "rae"},
-				{ "id": 2 , "code" : "BibleThump" , "ext" : "png", "cat" : "rae"}
-
-	]
- }
