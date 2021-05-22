@@ -1,0 +1,14 @@
+ {
+ 	"emotes" : [
+				{ "id": 1 , "code" : "BloodTrail", "ext" : "png" , "cat" : "rae"},
+				{ "id": 2 , "code" : "BibleThump" , "ext" : "png", "cat" : "rae"},
+				{ "id": 3 , "code" : "Yikes" , "ext" : "png", "cat" : "rae"},
+				{ "id": 4 , "code" : "PagMan" , "ext" : "png", "cat" : "rae"},
+				{ "id": 5 , "code" : "Pog" , "ext" : "png", "cat" : "rae"},
+				{ "id": 6 , "code" : "PogChamp" , "ext" : "png", "cat" : "rae"},
+				{ "id": 7 , "code" : "CrabPls" , "ext" : "gif", "cat" : "rae"},
+				{ "id": 8 , "code" : "EpicTroll" , "ext" : "gif", "cat" : "rae"},
+				{ "id": 9 , "code" : "GuitarTime" , "ext" : "gif", "cat" : "rae"}
+
+	]
+ }
