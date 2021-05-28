@@ -2,7 +2,10 @@
  {
  	"emotes" : [
 				{ "id": 1 , "code" : "BloodTrail", "ext" : "png" , "cat" : "rae"},
-				{ "id": 2 , "code" : "BibleThump" , "ext" : "png", "cat" : "rae"}
+				{ "id": 2 , "code" : "BibleThump" , "ext" : "png", "cat" : "rae"},
+				{ "id": 3 , "code" : "Pog", "ext" : "png" , "cat" : "rae"},
+				{ "id": 4 , "code" : "MODS", "ext" : "gif" , "cat" : "rae"},
+				{ "id": 5 , "code" : "MONKE", "ext" : "gif" , "cat" : "rae"}
 
 	]
  }
